@@ -10,4 +10,4 @@ Below are the Visualizations of the Web-App.
 <br>
 ![](Images/Img2.png)
 
-Link to the web-app:![Link](http://127.0.0.1:8050/)
+
