@@ -4,3 +4,6 @@ Dash apps give a point-&-click interface to models written in Python, R, and Jul
 With Dash apps, data scientists and engineers put complex Python analytics in the hands of business decision makers and operators.
 
 Below are the Visualizations of the Web-App.
+![](Images/Img1.png)
+<br>
+![](Images/Img2.png)
